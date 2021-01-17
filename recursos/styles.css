@@ -1,0 +1,33 @@
+/*
+regla
+
+selector{
+    propiedad: valor;
+}
+*/
+
+body {
+    background-color: transparent;
+}
+
+
+/*
+at-rules
+
+Para media query, diseño responsive:
+@media{}
+
+Para importar estilos de fuentes:
+@font-face{}
+
+Para animaciones:
+@keyframes{}
+
+Para importar reglas de estilo de otras hojas de estilo:
+@import()
+*/
+
+
+/*
+Tipos de selectores: básicos, combinadores, pseudo-elementos, pseudo-clases
+*/
